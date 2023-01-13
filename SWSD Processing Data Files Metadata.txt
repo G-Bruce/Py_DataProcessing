@@ -1,0 +1,47 @@
+Process kicked off @: 2022-10-13 13:13:28.307743
+Reading data from the AL directory.
+There are 411 files to process.
+The AL_SWSD_SUMMARY_DATA has been written.
+There are 16,801,680 records in the file.
+
+Process kicked off @: 2022-10-13 13:37:55.874499
+Reading data from the AZ directory.
+There are 513 files to process.
+The AZ_SWSD_SUMMARY_DATA has been written.
+There are 20,971,440 records in the file.
+
+Process kicked off @: 2022-10-13 14:16:10.362054
+Reading data from the CA directory.
+There are 1215 files to process.
+The CA_SWSD_SUMMARY_DATA has been written.
+There are 49,669,200 records in the file.
+
+Process kicked off @: 2022-10-13 17:34:58.674541
+Reading data from the CO directory.
+There are 264 files to process.
+The CO_SWSD_SUMMARY_DATA has been written.
+There are 10,792,320 records in the file.
+
+Process kicked off @: 2022-10-13 17:44:49.841977
+Reading data from the FL directory.
+There are 1,779 files to process.
+The FL_SWSD_SUMMARY_DATA has been written.
+There are 72,725,520 records in the file.
+
+Process kicked off @: 2022-10-14 00:54:55.856431
+Reading data from the ME directory.
+There are 69 files to process.
+The ME_SWSD_SUMMARY_DATA has been written.
+There are 28,20,720 records in the file.
+
+Process kicked off @: 2022-10-14 00:55:44.260267
+Reading data from the NM directory.
+There are 81 files to process.
+The NM_SWSD_SUMMARY_DATA has been written.
+There are 3,311,280 records in the file.
+
+Process kicked off @: 2022-10-14 00:56:49.178059
+Reading data from the TX directory.
+There are 168 files to process.
+The TX_SWSD_SUMMARY_DATA has been written.
+There are 6,841,560 records in the file.
